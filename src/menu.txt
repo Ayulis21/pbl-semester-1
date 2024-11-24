@@ -1,0 +1,15 @@
+Animate Body Scrub;10000
+Animate Cream      ;11000
+Animate Face Wash  ;12000
+Animate Essence    ;13000
+Animate Toner      ;14000
+MS Glow Body Scrub ;15000
+MS Glow Cream      ;16000
+MS Glow Face Wash  ;17000
+MS Glow Essence    ;18000
+MS Glow Serum      ;19000
+Scarlate Body Scrub;20000
+Scarlate Toner     ;21000
+Scarlate Face Wash ;22000
+Scarlate Essence   ;23000
+Scarlate Toner     ;24000
