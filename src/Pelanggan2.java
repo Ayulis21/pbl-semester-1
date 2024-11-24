@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.io.FileReader;
 import java.io.FileNotFoundException;
 
-public class User2 {
+public class Pelanggan2 {
     static String jawaban, username, password;
     static List<String> produkList = new ArrayList<>();
     static List<Integer> hargaList = new ArrayList<>();
